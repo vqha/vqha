@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Maxime, a.k.a @vqha!
+- 👀 I’m interested in Python, Java, GDScript, Javascript, Godot, Unity, Game dev, Exploit dev and old languages.
+- 🌱 I’m currently learning Assembly, Cobol, Fortran, HLA (High Level Assembly), Quantum Computation Language, Snowball, Arduino, CoffeeScript, UnrealScript, C+ and C#.
+- 💞️ I’m looking to collaborate on nothing. I'm here to learn and max my CV before I turn 16.
+- 📫 How to reach me: @mxm.mst on IG and Threads, but I'm never available. Also I have a reddit u/probablymaybeafter and a mail for very important stuff on maxime.mastella@gmail.com
