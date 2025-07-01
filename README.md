@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Maxime, a.k.a @vqha!
 - 👀 I’m mainly interested in architecture, but IT-wise, i'm into Python, HTML, Arduino and having fun.
+- Mainly on MacOS and Windows for professional standards, but deep into ricing unix (i use Arch btw - had to say it for the meme)
 - Studying in France, not even reached graduation yet tho
 - 📫 How to reach me: @tsuki.bne on IG, for music, project updates and a good example of terrible Opsec.
 - ALSOOO i have a mail for very important stuff on mxm.mst@proton.me!!
