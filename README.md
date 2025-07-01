@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maxime, a.k.a @vqha!
+- 👋 Hi, I’m Maxime, a.k.a @vqha on this site.
 - 👀 I’m mainly interested in architecture, but IT-wise, i'm into Python, HTML, Arduino and having fun.
 - Mainly on MacOS and Windows for professional standards, but deep into ricing unix (i use Arch btw - had to say it for the meme)
 - Studying in France, not even reached graduation yet tho
